@@ -1,4 +1,4 @@
-To generate a Table of Contents for Github flavored Markdown, follow these instructions:
+To generate a Table of Contents for Github flavored Markdown, follow the following instructions. Please note, this should be the last step in generating your documentation.
 
 1. First, copy the entire markdown source code.
 2. Next, go to [this website](https://ecotrust-canada.github.io/markdown-toc/)
