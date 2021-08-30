@@ -30,7 +30,7 @@ Usage and implementation instructions should go here. This should include starti
 
 If the tool has any options of flags that are passed to it, please enumerate them here, each with a separate section with code quoting, as shown below.
 
-#### `First Flag`
+#### `Example Flag`
 
 A sample option or flag that is passed to the tool.
 
