@@ -2,9 +2,10 @@
 
 A quick description of the tool in question.
 
+## 📝 Table of Contents
 {PLACE TABLE OF CONTENTS HERE, SEE [HERE](TOC.md)}
 
-## Installation
+## 🏁 Installation
 
 All relevant installation instructions should go here. Not all fields will necessarily be filled, so if the field is redundant to your use, simply delete the heading.
 
@@ -22,7 +23,7 @@ If there are any dependencies, place a list of them, and how to install them in 
 
 The instructions proper for installing the tool should go here. Any instructions here assume that the previous sections of the Installation have been completed. This section will include cloning the repository and any ancillary instructions to follow. If services need to be enabled, the instructions will also go in this section.
 
-## Usage
+## 🚀 Usage
 
 Usage and implementation instructions should go here. This should include starting the tool, as well as checking to see that it is properly running. It is also good practice to include a valid return message from the tool as an example. Troubleshooting and debugging should **NOT** go in this section, but rather in the Troubleshooting section below.
 
@@ -34,6 +35,11 @@ If the tool has any options of flags that are passed to it, please enumerate the
 
 A sample option or flag that is passed to the tool.
 
-## Troubleshooting
+## ⛏️ Troubleshooting
 
 Any common issues that may arise should be placed here, as well as how to resolve them.
+
+## 🎉 Acknowledgements
+- Hat tip to anyone whose code was used
+- Inspiration
+- References
