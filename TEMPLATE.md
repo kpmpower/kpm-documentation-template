@@ -35,11 +35,29 @@ If the tool has any options of flags that are passed to it, please enumerate the
 
 A sample option or flag that is passed to the tool.
 
+## 🔧 Running the tests
+Explain how to run any tests on the tool, if they exist.
+
+### Test Framework
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+### Code Linting
+If there are and code formatting tests, place examples here.
+
+```
+Give an example
+```
+
 ## ⛏️ Troubleshooting
 
 Any common issues that may arise should be placed here, as well as how to resolve them.
 
 ## 🎉 Acknowledgements
+
 - Hat tip to anyone whose code was used
 - Inspiration
 - References
