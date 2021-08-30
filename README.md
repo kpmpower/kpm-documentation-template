@@ -8,7 +8,7 @@ The simplest way of using this repository is to copy the source code of `TEMPLAT
 ## 📝 Table of Contents
 Github doesn't generate Tables of Contents natively, unlike other flavors of Markdown. Since we want to have a Table of Contents for ease of navigation and readability, we will have to generate one. To do so, please follow the instructions [here](TOC.md).
 
-## Formatting
+## 🔧 Formatting
 
 ### Code
 For any code that needs to be included (unless it is a single-word command), please do not use `inline code`. Instead, to aid in readability, please use 
