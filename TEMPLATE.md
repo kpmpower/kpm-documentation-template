@@ -29,7 +29,7 @@ Usage and implementation instructions should go here. This should include starti
 
 ### Options
 
-If the tool has any options of flags that are passed to it, please enumerate them here, each with a separate section with code quoting, as shown below.
+If the tool has any options or flags that are passed to it, please enumerate them here, each with a separate section with code quoting, as shown below.
 
 #### `Example Flag`
 
@@ -46,7 +46,7 @@ Give an example
 ```
 
 ### Code Linting
-If there are and code formatting tests, place examples here.
+If there are any code formatting tests, place examples here.
 
 ```
 Give an example
